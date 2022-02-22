@@ -1,0 +1,30 @@
+
+#chevres_container {
+    margin: 32px;
+}
+.chevre_card {
+    margin: 16px 0;
+    padding: 32px;
+    border: 2px solid transparent;
+    border-bottom-color: #aaa;
+}
+.chevre_card img {
+    width: 300px;
+}
+.chevre_card img, .chevre_card div {
+    display: inline-block;
+    vertical-align: top;
+}
+.chevre_description {
+    margin: 0;
+    padding: 0 32px;
+    font-size: 2.5em;
+}
+.contact {
+    margin: 0;
+    padding: 4px 32px;
+    font-size: 32px;
+    font-weight: bold;
+    background-color: orange;
+    border-radius: 16px;
+}
